@@ -1,0 +1,137 @@
+{
+  "links": [
+    {
+      "name": "Gmail",
+      "url": "https://mail.google.com/",
+      "icon": "",
+      "iconText": "",
+      "color": ""
+    },
+    {
+      "name": "Outlook",
+      "url": "https://outlook.com/",
+      "icon": "",
+      "iconText": "",
+      "color": ""
+    },
+    {
+      "name": "SSI",
+      "url": "https://iboard.ssi.com.vn/",
+      "icon": "",
+      "iconText": "",
+      "color": ""
+    },
+    {
+      "name": "CoinMarketCap",
+      "url": "https://coinmarketcap.com/",
+      "icon": "",
+      "iconText": "",
+      "color": ""
+    },
+    {
+      "name": "TradingView",
+      "url": "https://www.tradingview.com/chart/QTj0AoJP/",
+      "icon": "",
+      "iconText": "",
+      "color": ""
+    },
+    {
+      "name": "VnExpress",
+      "url": "https://vnexpress.net/",
+      "icon": "",
+      "iconText": "",
+      "color": ""
+    },
+    {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/world/?region=world",
+      "icon": "",
+      "iconText": "",
+      "color": ""
+    },
+    {
+      "name": "GoogleTrend",
+      "url": "https://trends.google.com/trends/trendingsearches/daily?geo=VN",
+      "icon": "",
+      "iconText": "",
+      "color": ""
+    },
+    {
+      "name": "DuBaoTienTe",
+      "url": "https://dubaotiente.com/",
+      "icon": "",
+      "iconText": "",
+      "color": ""
+    },
+    {
+      "name": "24HMoney",
+      "url": "https://24hmoney.vn/",
+      "icon": "",
+      "iconText": "",
+      "color": ""
+    },
+    {
+      "name": "Pega",
+      "url": "https://pega.vn/",
+      "icon": "",
+      "iconText": "",
+      "color": ""
+    },
+    {
+      "name": "f319",
+      "url": "https://f319.com/",
+      "icon": "",
+      "iconText": "",
+      "color": ""
+    },
+    {
+      "name": "MSN",
+      "url": "https://www.msn.com/vi-vn/feed",
+      "icon": "",
+      "iconText": "",
+      "color": ""
+    },
+    {
+      "name": "Coin360",
+      "url": "https://coin360.com/",
+      "icon": "",
+      "iconText": "",
+      "color": ""
+    },
+    {
+      "name": "qBittorent",
+      "url": "http://192.168.1.111:8080/",
+      "icon": "",
+      "iconText": "",
+      "color": ""
+    },
+    {
+      "name": "AdguardHome",
+      "url": "http://192.168.1.111/",
+      "icon": "",
+      "iconText": "",
+      "color": ""
+    },
+    {
+      "name": "Portainer",
+      "url": "https://192.168.1.111:9443/",
+      "icon": "",
+      "iconText": "",
+      "color": ""
+    },
+    {
+      "name": "FBNC",
+      "url": "https://www.youtube.com/watch?v=test&list=UU7723FqVehXq2zeRb3tP0hQ",
+      "icon": "",
+      "iconText": "",
+      "color": ""
+    },
+    {
+      "name": "ThuanCapital",
+      "url": "https://www.youtube.com/watch?v=test&list=UULFXn7qe0dPhZeVVlmvX5k-mA",
+      "icon": "",
+      "iconText": "",
+      "color": ""
+    }
+  ]
+}
