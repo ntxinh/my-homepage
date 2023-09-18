@@ -139,6 +139,48 @@
       "icon": "",
       "iconText": "",
       "color": ""
+    },
+    {
+      "name": "CNN",
+      "url": "https://edition.cnn.com/",
+      "icon": "",
+      "iconText": "",
+      "color": ""
+    },
+    {
+      "name": "Google News",
+      "url": "https://news.google.com/",
+      "icon": "",
+      "iconText": "",
+      "color": ""
+    },
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/",
+      "icon": "",
+      "iconText": "",
+      "color": ""
+    },
+    {
+      "name": "Fox News",
+      "url": "https://www.foxnews.com/",
+      "icon": "",
+      "iconText": "",
+      "color": ""
+    },
+    {
+      "name": "Yahoo News",
+      "url": "https://news.yahoo.com/",
+      "icon": "",
+      "iconText": "",
+      "color": ""
+    },
+    {
+      "name": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/",
+      "icon": "",
+      "iconText": "",
+      "color": ""
     }
   ]
 }
