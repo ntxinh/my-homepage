@@ -1,14 +1,21 @@
 import styles from "../styles/Home.module.css";
 import { useState, useEffect } from 'react'
 import json from '../json/data.json';
+import dataQuotes from '../json/data-quotes.json';
 
 export default function Home() {
 
   const [links, setLinks] = useState([]);
+  const [quote, setQuote] = useState({ text: '' });
 
   useEffect(() => {
-    setLinks(json.links)
+    setLinks(json.links);
+    setQuote(dataQuotes.quotes[getRandomInt(dataQuotes.quotes.length - 1)] || { text: '' });
   }, []);
+
+  function getRandomInt(max) {
+    return Math.floor(Math.random() * max);
+  }
 
   return (
     <div>
@@ -31,6 +38,15 @@ export default function Home() {
           <a href="#page5" className="flex justify-center border-t-4 border-transparent hover:text-indigo-600 hover:border-indigo-600 py-4">Settings</a>
         </li>
       </ul>
+
+      <div className="p-8">
+        {/* <h1 className="text-4xl font-medium text-gray-700 text-center mt-6">
+          Full-Funnel Social Analytics
+        </h1> */}
+        <p className="text-center mt-6 text-4xl font-light text-gray-500">
+          {quote.text}
+        </p>
+      </div>
 
       {/* Content */}
       <div className={styles.container}>
