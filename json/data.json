@@ -5,56 +5,56 @@
       "url": "https://mail.google.com/",
       "icon": "",
       "iconText": "",
-      "color": ""
+      "color": "#DB4437"
     },
     {
       "name": "Outlook",
       "url": "https://outlook.com/",
       "icon": "",
       "iconText": "",
-      "color": ""
+      "color": "#00A4EF"
     },
     {
       "name": "SSI",
       "url": "https://iboard.ssi.com.vn/",
       "icon": "",
       "iconText": "",
-      "color": ""
+      "color": "#E21F26"
     },
     {
       "name": "CoinMarketCap",
       "url": "https://coinmarketcap.com/",
       "icon": "",
       "iconText": "",
-      "color": ""
+      "color": "#2559FF"
     },
     {
       "name": "TradingView",
       "url": "https://www.tradingview.com/chart/QTj0AoJP/",
       "icon": "",
       "iconText": "",
-      "color": ""
+      "color": "#2899F3"
     },
     {
       "name": "VnExpress",
       "url": "https://vnexpress.net/",
       "icon": "",
       "iconText": "",
-      "color": ""
+      "color": "#9F224E"
     },
     {
       "name": "CNBC",
       "url": "https://www.cnbc.com/world/?region=world",
       "icon": "",
       "iconText": "",
-      "color": ""
+      "color": "#005594"
     },
     {
       "name": "GoogleTrend",
       "url": "https://trends.google.com/trends/trendingsearches/daily?geo=VN",
       "icon": "",
       "iconText": "",
-      "color": ""
+      "color": "#FCC009"
     },
     {
       "name": "DuBaoTienTe",
@@ -89,70 +89,70 @@
       "url": "https://www.msn.com/vi-vn/feed",
       "icon": "",
       "iconText": "",
-      "color": ""
+      "color": "#00A4EF"
     },
     {
       "name": "Coin360",
       "url": "https://coin360.com/",
       "icon": "",
       "iconText": "",
-      "color": ""
+      "color": "#8CBF84"
     },
     {
       "name": "qBittorent",
       "url": "http://192.168.1.111:8080/",
       "icon": "",
       "iconText": "",
-      "color": ""
+      "color": "#366DBC"
     },
     {
       "name": "AdguardHome",
       "url": "http://192.168.1.111/",
       "icon": "",
       "iconText": "",
-      "color": ""
+      "color": "#6CB47D"
     },
     {
       "name": "Portainer",
       "url": "https://192.168.1.111:9443/",
       "icon": "",
       "iconText": "",
-      "color": ""
+      "color": "#3EDBFF"
     },
     {
       "name": "FBNC",
       "url": "https://www.youtube.com/watch?v=test&list=UU7723FqVehXq2zeRb3tP0hQ",
       "icon": "",
       "iconText": "",
-      "color": ""
+      "color": "#FF0000"
     },
     {
       "name": "ThuanCapital",
       "url": "https://www.youtube.com/watch?v=test&list=UULFXn7qe0dPhZeVVlmvX5k-mA",
       "icon": "",
       "iconText": "",
-      "color": ""
+      "color": "#FF0000"
     },
     {
       "name": "EpicGames",
       "url": "https://store.epicgames.com/en-US/free-games",
       "icon": "",
       "iconText": "",
-      "color": ""
+      "color": "#3A3A3A"
     },
     {
       "name": "CNN",
       "url": "https://edition.cnn.com/",
       "icon": "",
       "iconText": "",
-      "color": ""
+      "color": "#CC0000"
     },
     {
       "name": "Google News",
       "url": "https://news.google.com/",
       "icon": "",
       "iconText": "",
-      "color": ""
+      "color": "#FCC009"
     },
     {
       "name": "The Guardian",
@@ -173,14 +173,14 @@
       "url": "https://news.yahoo.com/",
       "icon": "",
       "iconText": "",
-      "color": ""
+      "color": "#6001D2"
     },
     {
       "name": "Yahoo Finance",
       "url": "https://finance.yahoo.com/",
       "icon": "",
       "iconText": "",
-      "color": ""
+      "color": "#6001D2"
     }
   ]
 }

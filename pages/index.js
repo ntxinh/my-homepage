@@ -51,7 +51,7 @@ export default function Home() {
       {/* Content */}
       <div className={styles.container}>
 
-        <div className="grid grid-cols-6 gap-4">
+        <div className="grid grid-cols-2 md:grid-cols-6 2xl:grid-cols-8 gap-4">
 
           {links.map((object, i) =>
             <a
@@ -59,6 +59,7 @@ export default function Home() {
               href={object.url}
               target="_blank"
               className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full"
+              style={{'background-color': object.color || null}}
             >
               {object.name}
             </a>
