@@ -207,6 +207,30 @@
       "icon": "",
       "iconText": "",
       "color": "#6001D2"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://linkedin.com/",
+      "categoryId": 1,
+      "icon": "",
+      "iconText": "",
+      "color": "#0A66C2"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://x.com/",
+      "categoryId": 1,
+      "icon": "",
+      "iconText": "",
+      "color": "#000000"
+    },
+    {
+      "name": "Lịch Kinh tế",
+      "url": "https://vn.investing.com/economic-calendar/",
+      "categoryId": 2,
+      "icon": "",
+      "iconText": "",
+      "color": "#222222"
     }
   ]
 }
