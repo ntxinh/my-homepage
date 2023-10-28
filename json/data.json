@@ -121,6 +121,14 @@
       "color": "#0D1117"
     },
     {
+      "name": "Note Code",
+      "url": "https://github.com/ntxinh/note-code/blob/master/README.md",
+      "categoryId": 4,
+      "icon": "",
+      "iconText": "",
+      "color": "#0D1117"
+    },
+    {
       "name": "qBittorent",
       "url": "http://192.168.1.111:8080/",
       "categoryId": 4,
