@@ -113,6 +113,14 @@
       "color": "#8CBF84"
     },
     {
+      "name": "GitHub",
+      "url": "https://github.com/ntxinh?tab=repositories",
+      "categoryId": 4,
+      "icon": "",
+      "iconText": "",
+      "color": "#0D1117"
+    },
+    {
       "name": "qBittorent",
       "url": "http://192.168.1.111:8080/",
       "categoryId": 4,
