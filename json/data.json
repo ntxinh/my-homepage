@@ -271,6 +271,14 @@
       "icon": "",
       "iconText": "",
       "color": "#395C74"
+    },
+    {
+      "name": "Translate",
+      "url": "https://translate.google.com/?sl=auto&tl=en&op=websites",
+      "categoryId": 2,
+      "icon": "",
+      "iconText": "",
+      "color": "#FCC009"
     }
   ]
 }
