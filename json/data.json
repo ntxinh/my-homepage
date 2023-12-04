@@ -279,6 +279,14 @@
       "icon": "",
       "iconText": "",
       "color": "#FCC009"
+    },
+    {
+      "name": "Alfred",
+      "url": "https://alfred.camera/webapp/viewer/",
+      "categoryId": 4,
+      "icon": "",
+      "iconText": "",
+      "color": "#FCC35D"
     }
   ]
 }
