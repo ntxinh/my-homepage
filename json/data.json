@@ -265,6 +265,14 @@
       "color": "#3C4852"
     },
     {
+      "name": "webui-aria2",
+      "url": "http://192.168.1.30/webui-aria2/",
+      "categoryId": 4,
+      "icon": "",
+      "iconText": "",
+      "color": "#3C4852"
+    },
+    {
       "name": "x-ui",
       "url": "https://192.168.1.111:54321/",
       "categoryId": 4,
