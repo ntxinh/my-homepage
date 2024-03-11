@@ -41,6 +41,14 @@
       "color": "#2899F3"
     },
     {
+      "name": "GoCharting",
+      "url": "https://gocharting.com/terminal?ticker=COINBASE:BTCUSDT",
+      "categoryId": 3,
+      "icon": "",
+      "iconText": "",
+      "color": "#3A469D"
+    },
+    {
       "name": "VnExpress",
       "url": "https://vnexpress.net/",
       "categoryId": 2,
