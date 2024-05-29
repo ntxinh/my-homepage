@@ -344,5 +344,13 @@
       "iconText": "",
       "color": "#000000"
     },
+    {
+      "name": "Claude",
+      "url": "https://claude.ai/",
+      "categoryId": 1,
+      "icon": "",
+      "iconText": "",
+      "color": "#000000"
+    }
   ]
 }
