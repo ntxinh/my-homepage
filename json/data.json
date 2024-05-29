@@ -311,6 +311,30 @@
       "icon": "",
       "iconText": "",
       "color": "#FCC35D"
+    },
+    {
+      "name": "ChatGPT",
+      "url": "https://chatgpt.com/",
+      "categoryId": 1,
+      "icon": "",
+      "iconText": "",
+      "color": "#DB4437"
+    },
+    {
+      "name": "Copilot",
+      "url": "https://copilot.microsoft.com/",
+      "categoryId": 1,
+      "icon": "",
+      "iconText": "",
+      "color": "#DB4437"
+    },
+    {
+      "name": "Gemini",
+      "url": "https://gemini.google.com/",
+      "categoryId": 1,
+      "icon": "",
+      "iconText": "",
+      "color": "#DB4437"
     }
   ]
 }
