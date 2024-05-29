@@ -249,7 +249,7 @@
       "color": "#0A66C2"
     },
     {
-      "name": "Twitter",
+      "name": "X",
       "url": "https://x.com/",
       "categoryId": 1,
       "icon": "",
@@ -318,7 +318,7 @@
       "categoryId": 1,
       "icon": "",
       "iconText": "",
-      "color": "#DB4437"
+      "color": "#000000"
     },
     {
       "name": "Copilot",
@@ -326,7 +326,7 @@
       "categoryId": 1,
       "icon": "",
       "iconText": "",
-      "color": "#DB4437"
+      "color": "#000000"
     },
     {
       "name": "Gemini",
@@ -334,7 +334,15 @@
       "categoryId": 1,
       "icon": "",
       "iconText": "",
-      "color": "#DB4437"
-    }
+      "color": "#000000"
+    },
+    {
+      "name": "Perplexity",
+      "url": "https://www.perplexity.ai/",
+      "categoryId": 1,
+      "icon": "",
+      "iconText": "",
+      "color": "#000000"
+    },
   ]
 }
